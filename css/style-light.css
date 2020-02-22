@@ -1076,7 +1076,7 @@ blockquote:before,
 			transform: translateY(-50%);
 }
 
-.pt-home .banner h1 {
+.pt-home .banner h2 {
 	color: #fff;
 	margin-bottom: 15px;
 }
